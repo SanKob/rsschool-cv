@@ -25,5 +25,6 @@ Modern University for the Humanities
 *****
 ## English:
 intermediate
+*****
 
 
