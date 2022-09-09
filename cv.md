@@ -23,5 +23,7 @@ const countSum = (arr) => {
 ## Education:
 Modern University for the Humanities
 *****
+## English:
+intermediate
 
 
